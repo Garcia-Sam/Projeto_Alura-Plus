@@ -26,3 +26,12 @@ body {
 .container {
     height: 100vh;
 }
+
+.container__botao {
+    padding: 1em;
+    display: block;
+    border-radius: 5px;
+    text-decoration: none;
+    color: var(--branco-principal);
+    background-color: var(--botao-azul);
+}
