@@ -25,6 +25,8 @@ body {
 }
 
 .principal {
+    text-align: center;
+    align-items: center;
     background-size: contain;
     background-repeat: no-repeat;
     background-image: url('img/Background.png');
@@ -50,7 +52,6 @@ body {
 }
 
 .container__botao {
-    width: 512px;
     padding: 1em;
     display: block;
     border-radius: 5px;
