@@ -119,3 +119,7 @@ body {
     font-size: 32px;
     color: var(--branco-principal);
 }
+
+.rodape__lista {
+    display: flex;
+}
