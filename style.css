@@ -72,13 +72,13 @@ body {
 }
 
 .secundario {
-    align-items: center;
     margin: 0 10em;
+    align-items: center;
 }
 
 .secundario__botao {
-    display: inline-block;
     margin-top: 1em;
+    display: inline-block;
 }
 
 .secundario__imagem {
