@@ -37,8 +37,8 @@ body {
 }
 
 .container__titulo {
-    font-size: 1.75rem;
     font-weight: 700;
+    font-size: 1.75rem;
 }
 
 .container__imagem {
@@ -76,8 +76,17 @@ body {
     margin: 0 10em;
 }
 
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+
 .secundario__imagem {
     width: 80%;
+}
+
+.container__descricao {
+    padding: 2em;
 }
 
 .descricao__titulo {
