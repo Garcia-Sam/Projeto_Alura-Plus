@@ -99,3 +99,22 @@ body {
 .descricao__texto {
     color: var(--cinza-secundario);
 }
+
+.dispositivos {
+    text-align: center;
+}
+.dispositivos__titulo {
+    font-size: 48px;
+    color: var(--branco-principal);
+}
+
+.dispositivos__lista {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.lista__item {
+    font-size: 32px;
+    color: var(--branco-principal);
+}
